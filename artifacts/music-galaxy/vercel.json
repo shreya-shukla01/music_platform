@@ -1,6 +1,10 @@
 {
+  "buildCommand": "pnpm run build",
+  "outputDirectory": "dist/public",
   "routes": [
-    { "handle": "filesystem" },
-    { "src": "/.*", "dest": "/index.html" }
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
   ]
 }
