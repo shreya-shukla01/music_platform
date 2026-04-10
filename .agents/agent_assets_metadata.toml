@@ -1,0 +1,14 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "jxvYy9PR6Sl8qX6Fi0kXc"
+uri = "file://music-galaxy-code.zip"
+type = "unspecified"
+title = "AI 3D Music Galaxy — Source Code"
+
+[[outputs]]
+id = "ePhZaq6pcH8zlofDYdA32"
+uri = "file://music-galaxy-vscode.zip"
+type = "unspecified"
+title = "AI 3D Music Galaxy — VSCode Ready"
